@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-masterclass/static/js/main.bcc62012.js",
+    "index.html": "/react-masterclass/index.html",
+    "main.bcc62012.js.map": "/react-masterclass/static/js/main.bcc62012.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bcc62012.js"
+  ]
+}
